@@ -1,3 +1,4 @@
+
 let totalPrice = 80;
 
 if (totalPrice >= 100) {
