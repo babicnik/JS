@@ -42,7 +42,13 @@ console.log((cisloA + cisloB) * cisloB)
 
 // aktualizace proměnné (přiřazovací opeátory)
 
-let number = 18
+let number = 18;
 number = number + 1;
+number += 1; 
+number -= 1;
+number *= 2;
+number /= 2;
+number ++;
+number --; 
 
 console.log(number)
